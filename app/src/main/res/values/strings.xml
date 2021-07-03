@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppFinal</string>
+    <string name="tab1">Estrenos</string>
+    <string name="tab2">Cines</string>
+  <string name="historial">Historial</string>
+    <string name="error">Reportar Error</string>
+</resources>

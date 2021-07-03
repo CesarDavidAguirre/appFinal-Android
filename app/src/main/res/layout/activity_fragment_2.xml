@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/cinefondo">
+
+    <Button
+        android:id="@+id/bton_hoyts"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:background="@drawable/hoytslog"
+        android:onClick="hoyst"/>
+
+    <Button
+        android:id="@+id/bton_granRex"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:background="@drawable/logorex"
+        android:onClick="rex"/>
+
+    <Button
+        android:id="@+id/bton_Cinerama"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:background="@drawable/cineramalog"
+        android:onClick="cinerama"/>
+    <Button
+        android:id="@+id/bton_Dino"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:background="@drawable/logodino"
+        android:onClick="dino"/>
+
+</LinearLayout>
